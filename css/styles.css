@@ -1,0 +1,7 @@
+#showStory {
+  display: none;
+  font-family: cursive;
+}
+#showStory #date {
+  float: right;
+}
